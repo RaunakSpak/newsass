@@ -1,0 +1,13 @@
+/* Custom Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
+
+h2 {
+    margin-top: 2rem;
+    color: #007bff;
+}
